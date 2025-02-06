@@ -12,20 +12,20 @@ const fs = require("fs");
 const paths = {
   pug: {
     src: "src/pug/*.pug",
-    dest: "dist",
+    dest: "docs",
   },
   sass: {
     src: "src/sass/**/*.scss",
-    dest: "dist",
+    dest: "docs",
   },
   data: "./data/guides.json",
   fonts: {
     src: "node_modules/@fortawesome/fontawesome-free/webfonts/*.*",
-    dest: "dist/fonts/", // Destination for Font Awesome fonts
+    dest: "docs/fonts/", // Destination for Font Awesome fonts
   },
   js: {
     src: "src/js/*.js", // Путь к вашим исходным JavaScript файлам (например, src/js/main.js)
-    dest: "dist/js", // Папка, куда будут сохранены скомпилированные файлы (например, dist/js/)
+    dest: "docs/js", // Папка, куда будут сохранены скомпилированные файлы (например, dist/js/)
   },
 };
 
