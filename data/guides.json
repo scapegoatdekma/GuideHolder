@@ -1,0 +1,287 @@
+{
+  "title": "Заголовок страницы",
+  "description": "Описание страницы",
+  "guides": {
+    "ALL_BY_IT_THEMES": [
+      {
+        "name": "Listen IT",
+        "url": "https://www.youtube.com/@ListenIT_channel",
+        "description": "Отличный канал для начинающих IT-шников"
+      },
+      {
+        "name": "CodeFest Russia",
+        "url": "https://www.youtube.com/@codefestru/videos",
+        "description": "Видео с конференций для разработчиков"
+      },
+      {
+        "name": "Alek OS",
+        "url": "https://www.youtube.com/@AlekOS",
+        "description": "Канал с полезными советами по программированию"
+      },
+      {
+        "name": "Merion Academy",
+        "url": "https://www.youtube.com/@merionacademy",
+        "description": "Обучающие материалы для будущих программистов"
+      },
+      {
+        "name": "Диджитализируй!",
+        "url": "https://www.youtube.com/@t0digital",
+        "description": "Различные IT-темы в доступной форме"
+      },
+      {
+        "name": "Computer Science Center",
+        "url": "https://www.youtube.com/@CompscicenterRu",
+        "description": "Материалы Computer Science Center"
+      },
+      {
+        "name": "Nerzon",
+        "url": "https://www.youtube.com/@NerzonIT",
+        "description": "Практические советы по IT"
+      },
+      {
+        "name": "Свят в АйТи: Разработка это Просто",
+        "url": "https://www.youtube.com/@svyatIT/videos",
+        "description": "Видеоуроки по IT"
+      },
+      {
+        "name": "Иван Гончаров",
+        "url": "https://www.youtube.com/@ivan.goncharov/playlists",
+        "description": "Плейлисты с разбором разных тем"
+      },
+      {
+        "name": "Александр Ильин про IT",
+        "url": "https://www.youtube.com/@digital_ninja/playlists",
+        "description": "Плейлисты для изучения IT"
+      },
+      {
+        "name": "LessonFirst",
+        "url": "https://www.youtube.com/@lessonfirst/videos",
+        "description": "Старые, но полезные гайды по PHP, SQL, JAVA"
+      },
+      {
+        "name": "WebDev с нуля. Канал Алекса Лущенко",
+        "url": "https://www.youtube.com/@itgid/videos",
+        "description": "Хороший канал по фронтенду"
+      },
+      {
+        "name": "Students Days (курсы по IT и не только)",
+        "url": "https://www.youtube.com/@studentsdaysit2002/playlists",
+        "description": "Математика, Python, Cisco, сети"
+      }
+    ],
+    "DEPLOY": [
+      {
+        "url": "https://www.youtube.com/@cyber-paddle/playlists",
+        "description": "Материалы по разработке и деплою"
+      }
+    ],
+    "PODCASTS": [
+      {
+        "url": "https://www.youtube.com/@ProBelDev",
+        "description": "Интересные подкасты для разработчиков"
+      }
+    ],
+    "SBER_SQL": [
+      {
+        "url": "https://gitlab.com/school218063421/sql-projects/s21-sql-bootcamp",
+        "description": "Репозиторий с проектами по SQL"
+      }
+    ],
+    "freecodecamp": [
+      {
+        "url": "https://www.freecodecamp.org/",
+        "description": "Бесплатные курсы по программированию"
+      }
+    ],
+    "w3schools": [
+      {
+        "url": "https://www.w3schools.com/sql/",
+        "description": "Учебник по SQL для начинающих"
+      }
+    ],
+    "English_SQL": [
+      {
+        "url": "https://www.mysqltutorial.org",
+        "description": "Учебник по SQL на английском языке"
+      }
+    ],
+    "Russian_SQL": [
+      {
+        "url": "https://sql-academy.org",
+        "description": "Учебник по SQL на русском языке"
+      }
+    ],
+    "Stepik_SQL": [
+      {
+        "url": "https://stepik.org/course/63054/",
+        "description": "Курс по SQL на платформе Stepik"
+      }
+    ],
+    "VIDEOS": [
+      {
+        "url": "https://openedu.ru/course/spbu/DTBS/",
+        "description": "Курс по базам данных"
+      },
+      {
+        "url": "https://www.youtube.com/@t0digital",
+        "description": "Разные IT-темы"
+      }
+    ],
+    "Yandex": [
+      {
+        "url": "https://www.youtube.com/watch?v=YjSIdz8DnAo",
+        "description": "Лекция от Яндекса"
+      },
+      {
+        "url": "https://www.youtube.com/@CompscicenterRu",
+        "description": "Материалы Computer Science Center"
+      }
+    ],
+    "Hacker": [
+      {
+        "url": "https://www.youtube.com/@abrictosecurity",
+        "description": "Канал про безопасность"
+      }
+    ],
+    "University": [
+      {
+        "url": "https://www.youtube.com/@CompscicenterRu/playlists",
+        "description": "Университетские курсы"
+      }
+    ],
+    "Fackend": {
+      "PYTHON": [
+        {
+          "url": "https://www.youtube.com/@NeuralNine",
+          "description": "Туториалы по Python"
+        },
+        {
+          "url": "https://www.youtube.com/@PythonRussian",
+          "description": "Python на русском языке"
+        },
+        {
+          "url": "https://www.youtube.com/@ITPro-ei8cs",
+          "description": "Алгоритмы и структуры данных"
+        },
+        {
+          "url": "https://www.youtube.com/@IT4eachcom",
+          "description": "Много всего про Python и Linux"
+        },
+        {
+          "url": "https://www.youtube.com/@selfedu_rus",
+          "description": "Самообразование"
+        },
+        {
+          "url": "https://www.youtube.com/@BroCodez",
+          "description": "Много туториалов на английском"
+        },
+        {
+          "url": "https://www.youtube.com/@PythononPapyrusRU",
+          "description": "Еще один канал про Python"
+        },
+        {
+          "url": "https://www.youtube.com/@pymentor",
+          "description": "Советы для Python-разработчиков"
+        },
+        {
+          "url": "https://www.youtube.com/@pythonclinic",
+          "description": "Разбор различных задач на Python"
+        },
+        {
+          "url": "https://www.youtube.com/@t0digital",
+          "description": "IT-тематика"
+        },
+        {
+          "url": "https://www.youtube.com/@coreyms",
+          "description": "Туториалы на английском языке"
+        },
+        {
+          "url": "https://www.youtube.com/@PythonToday",
+          "description": "Новости из мира Python"
+        },
+        {
+          "url": "https://www.youtube.com/@freecodecamp",
+          "description": "Бесплатные курсы"
+        }
+      ],
+      "GO": [
+        {
+          "url": "https://www.youtube.com/@nikolay_tuzov",
+          "description": "Канал про язык Go"
+        }
+      ],
+      "ASSEMBLY_AND_C": [
+        {
+          "url": "https://www.youtube.com/@firststepsforward/playlists",
+          "description": "Плейлисты с C и Assembly"
+        }
+      ]
+    },
+    "frontend": [
+      {
+        "url": "https://www.youtube.com/@UlbiTV",
+        "description": "Канал про фронтенд"
+      },
+      {
+        "url": "https://www.youtube.com/@itgid/videos",
+        "description": "Хороший канал с туториалами"
+      }
+    ],
+    "Хириянов": [
+      {
+        "url": "https://www.youtube.com/@tkhirianov",
+        "description": "Видео от Хириянова"
+      }
+    ],
+    "UNICODE": [
+      {
+        "url": "https://www.youtube.com/@Uni-Coder",
+        "description": "Уникальный канал про C и устройство компьютера"
+      }
+    ],
+    "devops": [
+      {
+        "url": "https://www.youtube.com/@ADV-IT",
+        "description": "Канал про DevOps"
+      }
+    ],
+    "MATH": [
+      {
+        "url": "https://www.youtube.com/@SergejKuts",
+        "description": "Математика от Сергея Куца"
+      },
+      {
+        "url": "https://www.youtube.com/@mektep_online_matematika",
+        "description": "Онлайн-математика"
+      },
+      {
+        "url": "https://www.youtube.com/@matematiks/videos",
+        "description": "Канал про математику"
+      },
+      {
+        "url": "https://www.youtube.com/@da_vinci_center",
+        "description": "Центр Da Vinci"
+      }
+    ],
+    "ENGLISH": [
+      {
+        "url": "https://www.youtube.com/@engvidEmma",
+        "description": "Английский с Emma"
+      },
+      {
+        "url": "https://www.youtube.com/@ok-english",
+        "description": "Английский язык"
+      },
+      {
+        "url": "https://www.youtube.com/@gabbywallaceofficial",
+        "description": "Изучение английского языка"
+      }
+    ],
+    "DATABASES_SETUPS": [
+      {
+        "url": "https://www.youtube.com/@IT-xk5lo",
+        "description": "Настройка баз данных"
+      }
+    ]
+  }
+}

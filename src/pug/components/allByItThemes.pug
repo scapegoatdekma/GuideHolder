@@ -1,0 +1,11 @@
+section.allThemes
+  canvas#starbg
+  #content
+    if guides && guides && guides.ALL_BY_IT_THEMES && Array.isArray(guides.ALL_BY_IT_THEMES)
+      h2 All By IT Themes
+      ul
+        each guide in guides.ALL_BY_IT_THEMES
+          li
+            a(href=guide.url, target="_blank")= guide.name || guide.url
+    else
+      p No guides found.

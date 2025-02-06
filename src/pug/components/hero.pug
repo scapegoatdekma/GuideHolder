@@ -1,0 +1,26 @@
+//- index.pug
+
+section.hero
+    .hero-content
+        if guides
+            ul
+                each key in Object.keys(guides)
+                
+                    - let formattedKey = key.replace(/_/g, ' ').toLowerCase(); // Заменяем все "_" на " "
+                    - formattedKey = String(formattedKey).charAt(0).toUpperCase() + String(formattedKey).slice(1);
+                    li.theme #{formattedKey}
+                        
+        .info                   
+            h1.hero-title.white-text Хранилище и визуализация гайдов по программированию
+            p.hero-subtitle.white-text От основ фронтенда и бекенда, до SQL и DevOps. Получайте доступ к учебным материалам, подобранным для вашего удобства.
+            .hero-features
+                .hero-feature
+                    i.fab.fa-youtube.fa-2x 
+                    p.hero-feature-text.white-text Гайды с YouTube-каналов
+                .hero-feature
+                    i.fas.fa-book.fa-2x 
+                    p.hero-feature-text.white-text Книги по программированию
+                .hero-feature
+                    i.fas.fa-code.fa-2x  
+                    p.hero-feature-text.white-text Практические примеры кода
+            a.cta-button(href="#") Начать обучение
